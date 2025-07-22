@@ -17,12 +17,19 @@ pip is a tool that installs Python packages (extra tools and libraries).
 It's like an app store for Python code.
 
 # Some external module 
-# A module to speak what is written 
+# 1.  A module to speak what is written 
+command to install : 
 
+```py 
+pip install pyttsx3
+```
+
+```py
 import pyttsx3
 engine = pyttsx3.init()
 engine.say("i am aneela bashir ")
 engine.runAndWait()
+```
 
 
 
