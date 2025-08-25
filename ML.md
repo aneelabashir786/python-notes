@@ -32,8 +32,21 @@
 
 1. Spam email detection
 
-2. Movie recommendation systems
+<h6>Deep Learning (DL)</h6>
 
-3. Predicting house prices
+Definition: Subset of Machine Learning.
+
+Goal: To use artificial neural networks (especially deep neural networks with many layers) to automatically learn complex patterns and representations from large amounts of data.
+
+How: Uses architectures like feedforward networks, CNNs (Convolutional Neural Networks), RNNs (Recurrent Neural Networks), and Transformers. These models can learn features directly from raw data (like images, text, or audio) without manual feature engineering.
+
+Examples:
+
+Image recognition (e.g., detecting cats vs. dogs in photos)
+
+Speech recognition (e.g., Siri, Alexa, Google Assistant)
+
+Natural Language Processing (e.g., ChatGPT, translation, summarization)
+
 
 
