@@ -1,7 +1,7 @@
 <h1>Machine Learning</h1>
 <h3>Definition</h3>
 
-" ML is a field of CS that uses statistical techniques to give Comuter Systems the ability to learn with data , without being explicitly programmed" 
+" ML is a field of CS that uses statistical techniques to give Computer Systems the ability to learn with data , without being explicitly programmed" 
 
 <h5>Difference bewteen  AI/ML/DL</h5>
 
@@ -28,7 +28,7 @@
 
 **How:** Algorithms find statistical relationships in data to make predictions or decisions.
 
-** Examples:**
+**Examples:**
 
 1. Spam email detection
 
