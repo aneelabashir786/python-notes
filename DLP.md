@@ -42,3 +42,10 @@ Image recognition (e.g., detecting cats vs. dogs in photos)
 Speech recognition (e.g., Siri, Alexa, Google Assistant)
 
 Natural Language Processing (e.g., ChatGPT, translation, summarization)
+
+<h2>Limitation of ML</h2>
+
+ML  is not good to handle high dimentional data and its not easy to do feature selection and object recognition 
+
+DEEP LEARNING is computationally expensive but it is good with high dimentions and there is no need to do feature selection . it is done automatically . 
+
